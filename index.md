@@ -33,11 +33,11 @@ National 3rd prize of **National High School Biology League**	2012.8, Harbin
 
 ## Papers & Patents
 
-[1] **Song, Y. S.**, Zhang, T. S., Li, B.*, 2018. “A Virtual Experiment Platform for 2D Robot Autonomous Navigation Algorithm System Based on ROS”. ***IEEE International Conference on Information and Automation***. pp.989-994.
+[1] **Song, Y. S.**, Zhang, T. S., Li, B.*, 2018. “A Virtual Experiment Platform for 2D Robot Autonomous Navigation Algorithm System Based on ROS”. **IEEE International Conference on Information and Automation**. pp.989-994.
 
 [2] **Song, Y. S.**, Huang, H. L., Liu, F., Xi, F. F.*, Zhou, D. Y., and Li, B.*, 2019. “Torque Estimation for Robotic Joint With Harmonic Reducer Based on Deformation Calibration”. ***IEEE Sensors Journal***. *(Under review)*
 
-[3] **Song, Y. S.**, Wu, J. H., and Huang, H. L.*, 2019. “A Novel Heavy-Load Nursing Robotic Arm - Design and Safety Control Based on Tactile Skin”. ***IEEE International Conference on Robotics and Biomimetics.*** *(Waiting submitting)*
+[3] **Song, Y. S.**, Wu, J. H., and Huang, H. L.*, 2019. “A Novel Heavy-Load Nursing Robotic Arm - Design and Safety Control Based on Tactile Skin”. **IEEE International Conference on Robotics and Biomimetics.** *(Waiting submitting)*
 
 [4] Li, B., Wu, J. H., Huang, H. L., **Song, Y. S.**, Liu, F., Ning, Y. H., and Chen, J. A., 2018. “A Novel Kind of 6-DOF Bionic Manipulator Arm”. ***C.N. Patent No. 201811515893.8.***
 
