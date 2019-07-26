@@ -1,6 +1,6 @@
 title: DanielSong-Homepage
 url: "https://Danielsong001.com"
-baseurl: "/Homepage"
+baseurl: "/page"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
