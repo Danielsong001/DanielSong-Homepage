@@ -2,6 +2,7 @@
 layout: default
 ---
 
+
 ## Education
 
 <img class="profile-picture" src="sherlock.jpg">
@@ -13,6 +14,7 @@ Master’s Degree of Mechanical Engineering	Shenzhen, China
 **Harbin Institute of Technology (GPA: 75.2/100)**	2013.9 - 2017.7
 
 Bachelor’s Degree of Mechanical Engineering	Harbin, China
+
 
 ## Honors
 
@@ -28,6 +30,7 @@ National 2nd prize of **National High School Mathematics League**	2013.9, Harbin
 
 National 3rd prize of **National High School Biology League**	2012.8, Harbin
 
+
 ## Papers & Patents
 
 [1] **Song, Y. S.**, Zhang, T. S., Li, B.*, 2018. “A Virtual Experiment Platform for 2D Robot Autonomous Navigation Algorithm System Based on ROS”. **IEEE International Conference on Information and Automation**. pp.989-994.
@@ -40,37 +43,43 @@ National 3rd prize of **National High School Biology League**	2012.8, Harbin
 
 [5] Li, B., Wu, J. H., Liu, F., Xu, W. F., Huang, H. L., **Song, Y. S.**, and Liang, J. L., 2018. “A Novel Kind of Double-arm Robot for Nursing Tasks”. **C.N. Patent No. 201811515894.2.**
 
+
 ## Project Experience
 
-**Research on Safety Control Strategy of Heavy-Load Robotic Arm for Nursing Task**      2018.6 - 2019.7   
+**I. Research on Safety Control Strategy of Heavy-Load Robotic Arm for Nursing Task**      2018.6 - 2019.7   
 
-	Designed ***the structure and hardware system*** of the 6 DOF heavy load series manipulator; 
+  1.1 Designed ***the structure and hardware system*** of the 6 DOF heavy load series manipulator; 
 
-	Proposed ***two novel torque estimation methods*** for robotic joint with harmonic reducer *(Submitted one paper)*; 
+  1.2 Proposed ***two novel torque estimation methods*** for robotic joint with harmonic reducer *(Submitted one paper)*; 
 
-	Designed ***tactile robotic skins*** and proposed ***a safety control strategy*** based on it *(Submitted one paper)*;
+  1.3 Designed ***tactile robotic skins*** and proposed ***a safety control strategy*** based on it *(Submitted one paper)*;
 
-	Studied the ***fusion methods of impedance control algorithms*** based on joint space and task space. 
+  1.4 Studied the ***fusion methods of impedance control algorithms*** based on joint space and task space. 
 
-**Cooperative robots with autonomous navigation, recognition and decision systems**       2017.9 - 2018.5
+**II. Cooperative robots with autonomous navigation, recognition and decision systems**       2017.9 - 2018.5
 
-	Improved the ***DJI’s robotic chassis & the motion control embedded system;***
+  2.1	Improved the ***DJI’s robotic chassis & the motion control embedded system;***
 
-	Designed a multi-sensor fusion autonomous ***localization, mapping and navigation system*** *(Published one paper)*; 
+  2.2	Designed a multi-sensor fusion autonomous ***localization, mapping and navigation system*** *(Published one paper)*; 
 
-	Realized ***the real-time detection and tracking system*** of enemy robots’ armor decks based on YOLOv2.
+  2.3	Realized ***the real-time detection and tracking system*** of enemy robots’ armor decks based on YOLOv2.
 
-	Designed ***a multi-mode autonomous decision system*** for two cooperative robots *(4500 lines of Python code)*.
+  2.4	Designed ***a multi-mode autonomous decision system*** for two cooperative robots *(4500 lines of Python code)*.
 
-**Design and Manufacture of Commercial Chocolate 3D Printers**                       2015.9 - 2017.6          
+**III. Design and Manufacture of Commercial Chocolate 3D Printers**                       2015.9 - 2017.6          
 
-	Proposed ***a novel extrusion and heating system*** specializing for chocolate printing;   
+  3.1	Proposed ***a novel extrusion and heating system*** specializing for chocolate printing;   
 
-	Solved ***the tricky plugging problem*** by many experiments about the melting and flowing of chocolate;
+  3.2	Solved ***the tricky plugging problem*** by many experiments about the melting and flowing of chocolate;
 
-	Started ***a small technology service company*** and designed a ***3D printing training center*** for a vocational school.
+  3.3	Started ***a small technology service company*** and designed a ***3D printing training center*** for a vocational school.
+
 
 ## Internship & Exchange
+
+**Robotics Robotics Ltd. (PI Electronics H.K Ltd.)**	2017.7 – 2017.8, Shenzhen & H.K.
+
+	Designed the control system of an automatic production line based on CAN-open.	***Assistant Engineer***
 
 **Harbin Aizhilan Technology Development Co., Ltd.**	2016.3 - 2016.6, Harbin
 
@@ -79,8 +88,3 @@ National 3rd prize of **National High School Biology League**	2012.8, Harbin
 **Korea Advanced Institute of Science and Technology (KAIST)**	2016.7 - 2016.8, Korea
 
 	Contributed to the designing of a robotic system for automotive paint spraying.	***International Summer School***
-
-**Robotics Robotics Ltd. (PI Electronics H.K Ltd.)**	2017.7 – 2017.8, Shenzhen & H.K.
-
-	Designed the control system of an automatic production line based on CAN-open.	***Assistant Engineer***
-
