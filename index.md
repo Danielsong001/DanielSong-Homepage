@@ -5,8 +5,11 @@ layout: default
 ## Education
 
 Harbin Institute of Technology (GPA: 86/100 - 14%)	2017.9 - Now
+
 Master’s Degree of Mechanical Engineering	Shenzhen, China
+
 Harbin Institute of Technology (GPA: 75.2/100)	2013.9 - 2017.7
+
 Bachelor’s Degree of Mechanical Engineering	Harbin, China
 
 ## Honors
