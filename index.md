@@ -2,8 +2,6 @@
 layout: default
 ---
 
-link: "resume.pdf"
-
 ## Education
 
 <img class="profile-picture" src="sherlock.jpg">
