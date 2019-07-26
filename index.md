@@ -2,6 +2,7 @@
 layout: default
 ---
 
+link: "resume.pdf"
 
 ## Education
 
