@@ -4,6 +4,8 @@ layout: default
 
 ## Education
 
+<img class="profile-picture" src="sherlock.jpg">
+
 **Harbin Institute of Technology (GPA: 86/100 - 14%)**	2017.9 - Now
 
 Master’s Degree of *Mechanical Engineering*	Shenzhen, China
