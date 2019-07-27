@@ -16,6 +16,8 @@ sass:
     sass_dir: _sass
 
 nav:
+ - name: "About"
+   link: "/page/"
  - name: "Curriculum vitae"
    link: "CV.pdf"
  - name: "ICIA"
